@@ -19,6 +19,6 @@ An interactive Streamlit dashboard demonstrating a multi-factor retail credit ri
 ## 🛠️ Project Structure
 
 ```text
-├── app.py              # Streamlit dashboard application
+├── retail_credit_risk_dashboard.py             # Streamlit dashboard application
 ├── requirements.txt    # Python dependencies
 └── README.md           # Documentation
