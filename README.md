@@ -22,3 +22,6 @@ An interactive Streamlit dashboard demonstrating a multi-factor retail credit ri
 ├── retail_credit_risk_dashboard.py             # Streamlit dashboard application
 ├── requirements.txt    # Python dependencies
 └── README.md           # Documentation
+```
+## ⚠️ Disclaimer
+This dashboard is built for educational, instructional, and exploratory purposes only. The risk weights, multipliers, and threshold calibrations are synthetic heuristics and do not constitute a statistically validated internal ratings-based (IRB) or IFRS 9 impairment model. Real-world underwriting requires models calibrated against historical default datasets, validated for discriminatory power (e.g., Gini/AUC), and audited for regulatory and fair-lending compliance.
